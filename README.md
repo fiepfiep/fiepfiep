@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Philippe
-- 👀 I’m interested in python, linux, photography
+- 👀 I’m interested in python, linux, photography, artificial intelligence
 - 🌱 I’m working with cmos image sensors on a daily basis
 
 <!---
